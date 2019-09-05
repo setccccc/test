@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="modular:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/modular_jar</output-path>
+    <root id="archive" name="modular.jar">
+      <element id="module-output" name="modular" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../extJar/JSON/commons-collections-3.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../extJar/JSON/commons-lang-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../extJar/JSON/ezmorph-1.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../extJar/JSON/commons-beanutils-1.9.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../extJar/JSON/json-lib-2.4-jdk15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../extJar/JSON/commons-logging-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
